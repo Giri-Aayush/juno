@@ -55,7 +55,9 @@ Join our community for support, engaging discussions, and updates:
 
 - [Telegram](https://t.me/+LHRF4H8iQ3c5MDY0): Share ideas and stay informed with fellow Juno users.
 - [Discord](https://discord.gg/SZkKcmmChJ): Connect in real-time with the Juno team and community.
-- [X (Twitter)](https://x.com/NethermindStark): Follow for the latest news and insights from Nethermind.
+- [X (Twitter)](https://x.com/Nethermind): Follow for the latest news and insights from Nethermind.
+
+Also useful: [Voyager](https://x.com/0xvoyageronline), the Starknet block explorer, for cross-checking your node against a canonical view of the chain; and [Starknet](https://x.com/Starknet), which announces protocol changes that affect node operators.
 
 ## Contributions and partnerships
 

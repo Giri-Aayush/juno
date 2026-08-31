@@ -129,7 +129,7 @@ const config = {
               },
               {
                 label: "X (Twitter)",
-                href: "https://x.com/NethermindStark", // NethermindStark account.
+                href: "https://x.com/Nethermind", // Nethermind account.
               },
               {
                 label: "Telegram",

@@ -24,7 +24,7 @@
   <a href="https://discord.gg/TcHbSZ9ATd">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   </a>
-  <a href="https://twitter.com/NethermindStark">
+  <a href="https://x.com/Nethermind">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
   <a href="https://t.me/+skAz9cUvo_AzZWM8">
@@ -80,7 +80,7 @@ For questions or feedback, please don't hesitate to reach out to us:
 
 - [Telegram](https://t.me/StarknetJuno)
 - [Discord](https://discord.com/invite/TcHbSZ9ATd)
-- [X(Formerly Twitter)](https://x.com/NethermindStark)
+- [X (Formerly Twitter)](https://x.com/Nethermind)
 
 ## 🤝 Partnerships
 
