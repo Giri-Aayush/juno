@@ -669,3 +669,53 @@ div[class*="codeBlockContent"] {
     animation-duration: 0.01ms !important;
   }
 }
+
+/* ── Diagrams ──────────────────────────────────────────────────────────
+   Inline SVG rather than a diagram dependency. Strokes and text inherit
+   currentColor so a diagram works in both themes without a second copy. */
+.topology {
+  border: 1px solid var(--juno-rule);
+  border-radius: var(--ifm-global-radius);
+  background: var(--ifm-background-surface-color);
+  padding: 1.25rem 1rem;
+  margin: 1.75rem 0;
+  overflow-x: auto;
+}
+
+.topology svg {
+  display: block;
+  width: 100%;
+  min-width: 560px;
+  height: auto;
+  color: var(--juno-ink-2);
+}
+
+.topology .rdb-title {
+  font-family: var(--ifm-font-family-base);
+  font-size: 15px;
+  font-weight: 600;
+  fill: var(--juno-ink);
+}
+
+.topology .rdb-line {
+  font-family: var(--ifm-font-family-base);
+  font-size: 13px;
+  fill: var(--juno-ink-2);
+}
+
+.topology .rdb-flag,
+.topology .rdb-cap {
+  font-family: var(--ifm-font-family-monospace);
+  font-size: 12px;
+  fill: var(--juno-ink-3);
+}
+
+.topology .rdb-flag {
+  fill: var(--ifm-color-primary);
+}
+
+.topology .rdb-dim {
+  font-size: 11px;
+  opacity: 0.8;
+}
+

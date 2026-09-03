@@ -44,6 +44,7 @@ const sidebars = {
     "staking-validator",
     "monitoring",
     "tuning",
+    "remote-database",
     "plugins",
     "faq",
   ],
